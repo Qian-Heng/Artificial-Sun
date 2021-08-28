@@ -1,0 +1,258 @@
+[0m2021-08-29 00:00:44 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:00:44 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:00:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:00:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:01:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:01:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:02:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:02:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:03:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:03:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:04:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:04:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:05:14 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:05:14 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:05:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:05:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:06:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:06:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:07:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:07:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:08:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:08:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:09:44 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:09:44 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:09:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:09:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:10:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:10:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:11:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:11:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:12:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:12:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:13:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:13:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:14:14 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:14:14 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:14:42 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:14:43 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:14:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:14:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:14:51 V/Net 1406937296: Send: OnlinePush.RespPush[0m
+[0m2021-08-29 00:15:00 V/Net 1406937296: Send: OnlinePush.RespPush[0m
+[0m2021-08-29 00:15:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:15:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:16:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:16:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:17:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:17:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:18:44 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:18:44 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:18:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:18:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:19:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:19:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:20:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:20:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:21:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:21:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:22:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:22:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:23:14 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:23:14 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:23:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:23:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:24:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:24:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:25:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:25:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:26:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:26:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:27:44 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:27:44 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:27:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:27:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:28:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:28:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:29:42 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:29:42 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:29:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:29:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:30:25 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:30:25 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:30:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:30:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:31:37 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:31:37 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:31:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:31:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:32:14 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:32:14 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:32:16 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:32:16 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:32:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:32:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:32:58 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:32:58 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:33:41 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:33:41 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:33:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:33:46 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:34:46 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:34:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:35:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:35:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:36:06 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:36:06 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:36:08 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:36:08 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:36:44 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:36:44 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:36:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:36:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:37:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:37:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:38:13 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:38:14 V/Net 1406937296: Recv: FileExists(fileId=2320093645, fileInfo=ImgInfo(fileMd5=[108, 86, -8, 123, 111, -97, 1, -44, -106, 118, -115, 14, 57, 77, 4, -98], fileType=2001, fileSize=157578, fileWidth=0, fileHeight=0))[0m
+[0m2021-08-29 00:38:14 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:38:14 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:38:15 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:38:15 V/Net 1406937296: Recv: FileExists(fileId=2866760896, fileInfo=ImgInfo(fileMd5=[-85, 9, -42, -45, -16, -51, -111, -114, 89, -10, -43, 23, 97, -110, 112, 18], fileType=2001, fileSize=175849, fileWidth=0, fileHeight=0))[0m
+[0m2021-08-29 00:38:15 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:38:16 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:38:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:38:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:39:01 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:39:01 V/Net 1406937296: Recv: RequireUpload(fileId=2159615287, uKey=[-100, -80, 29, -100, -19, -110, 112, 28, 22, -83, -79, -4, 14, -74, 113, -44, -19, -49, -106, -7, 12, 89, 64, 25, 39, 77, -64, 111, 10, 39, -56, 111, 3, -88, 45, -122, -80, 98, 121, 62, -109, -9, 29, -78, 29, -36, 114, 0, -92, 78, -86, -39, -21, -17, -34, 119, 85, 56, 89, 20, 127, -102, 76, -20, -21, -115, 93, 41, 8, 47, 7, -92, -22, 111, 62, 93, 40, 3, -77, 15, -42, -72, -100, -33, -80, 37, -56, 5, -11, 124, 87, 88, 82, -42, 62, 5, -66, -67, 16, 66, -120, 60, 24, 86, 102, 79, 75, 56, -40, -73, 52, -20, 53, 113, -102, 40, 124, 25, 59, -26, 66, -122, 2, -98, 95, 85, 89, 53])[0m
+[0m2021-08-29 00:39:01 V/Net 1406937296: [Highway] Uploading group image to 183.47.99.74:80, size=186.07 KiB[0m
+[0m2021-08-29 00:39:02 V/Net 1406937296: [Highway] Uploading group image: succeed at 500 KiB/s[0m
+[0m2021-08-29 00:39:02 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:39:02 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:39:02 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:39:03 V/Net 1406937296: Recv: RequireUpload(fileId=2769468769, uKey=[-60, -34, -118, 29, -50, 115, 0, -94, -125, -18, -66, -22, -78, -82, 32, -30, -114, 53, 118, 30, 52, -64, 64, -118, 64, 107, 110, -58, 64, -74, 4, 74, 100, -66, -2, -103, 65, -24, 90, -99, -24, -126, 4, -6, -98, -21, 90, -34, -119, 102, 88, -93, -55, 123, 122, -16, -89, -33, -70, 44, -84, -72, 8, 102, -126, -3, 57, -63, 64, -31, -18, 124, 50, -105, 46, 20, 30, 95, 3, -56, 44, -12, 7, -22, -28, 106, 1, 18, 56, 100, -17, -31, 88, -27, 79, -119, 62, -119, -32, -37, -46, 13, 70, -7, -86, -69, 113, -23, -70, 98, 79, 69, 61, 62, -81, -46, -63, -21, -75, -5, 92, -1, -92, 120, -3, 63, 83, 90])[0m
+[0m2021-08-29 00:39:03 V/Net 1406937296: [Highway] Uploading group image to 183.47.99.74:80, size=174.95 KiB[0m
+[0m2021-08-29 00:39:03 V/Net 1406937296: [Highway] Uploading group image: succeed at 520 KiB/s[0m
+[0m2021-08-29 00:39:03 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:39:04 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:39:04 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:39:04 V/Net 1406937296: Recv: RequireUpload(fileId=2673524990, uKey=[-78, -105, 62, 78, 52, -115, 43, 60, 108, -6, -59, 33, -118, 2, 13, 5, 28, -31, 0, 34, 17, -35, 57, 9, -11, -35, -60, -123, 72, -60, 107, 93, 19, 0, 87, -26, -122, -17, 20, 22, -103, -121, -31, -59, -32, -104, 62, -1, -8, -63, -102, -36, 106, -82, -12, -4, 72, -46, 17, -21, -93, -82, 24, -6, -125, -76, 126, -29, 113, -7, -36, 32, -105, 45, 69, 75, 82, -117, -10, 99, 59, -107, 79, -44, -41, -116, -40, 77, -78, 24, -118, -68, -113, 74, -3, -67, -121, 22, 79, -39, -87, 105, -77, 25, -73, 19, -31, 71, -38, 33, 20, -34, 44, 71, 82, -110, 85, -41, 1, -23, 119, -116, 94, -82, 116, 8, 58, -31])[0m
+[0m2021-08-29 00:39:04 V/Net 1406937296: [Highway] Uploading group image to 183.47.99.74:80, size=171.32 KiB[0m
+[0m2021-08-29 00:39:05 V/Net 1406937296: [Highway] Uploading group image: succeed at 460 KiB/s[0m
+[0m2021-08-29 00:39:05 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:39:05 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:39:05 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:39:06 V/Net 1406937296: Recv: RequireUpload(fileId=2432548930, uKey=[51, 106, 90, -44, 31, -98, -79, 119, 53, 85, 36, -73, -16, 74, -113, 23, 75, 61, 117, 77, -42, -50, -5, 30, -67, 114, 80, -52, -42, -112, -12, 62, -67, -44, -65, 13, -15, 79, -115, -16, -112, 44, -100, 34, 60, 73, -116, -74, -102, -10, 96, -73, -117, 85, 116, -38, 99, -88, 67, -22, 22, 8, -22, 111, 73, -38, -128, 22, -48, 21, -55, -61, -79, -52, -69, 18, -85, -98, 70, -38, 84, -99, -123, 82, 122, -69, 103, 69, -41, -53, 110, -106, -76, 22, -13, -41, -66, 107, 93, 5, -74, -79, -90, -3, -52, 107, -66, -92, -65, 90, -37, 62, -62, -94, 89, 52, -117, 76, -36, -116, -7, -81, 30, 76, -8, -7, 59, -2])[0m
+[0m2021-08-29 00:39:06 V/Net 1406937296: [Highway] Uploading group image to 183.47.99.74:80, size=179.2 KiB[0m
+[0m2021-08-29 00:39:06 V/Net 1406937296: [Highway] Uploading group image: succeed at 558 KiB/s[0m
+[0m2021-08-29 00:39:06 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:39:07 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:39:09 V/Net 1406937296: Send: OnlinePush.RespPush[0m
+[0m2021-08-29 00:39:18 V/Net 1406937296: Send: OnlinePush.RespPush[0m
+[0m2021-08-29 00:39:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:39:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:40:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:40:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:41:14 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:41:14 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:41:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:41:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:42:08 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:42:08 V/Net 1406937296: Recv: RequireUpload(fileId=3043341993, uKey=[-67, -96, -74, -104, -63, -27, -50, 93, -108, -24, 81, -17, 70, 107, 70, -104, -116, 5, 110, 67, -4, 22, 32, 12, -38, -15, -17, -117, 73, 3, 101, 112, 57, 5, 57, 68, 48, -120, -40, 66, -47, -60, -115, -40, -6, 11, 42, -20, 109, -121, 44, 125, -33, -83, 77, 89, -63, -76, 63, 51, -33, -125, -122, -115, 103, 28, -106, -40, -41, -65, -120, 5, -24, -110, -110, -117, -41, 22, -99, 85, 75, -19, -8, -9, 40, -114, 117, 35, 116, -11, 95, 122, -43, 70, -115, 41, -23, -122, -126, -65, 116, 94, -127, -108, 39, 57, 26, 93, -109, 98, 116, -93, 65, 118, -60, -72, 2, 85, 16, 55, -64, -103, 45, 61, -62, 46, 120, -103])[0m
+[0m2021-08-29 00:42:08 V/Net 1406937296: [Highway] Uploading group image to 183.47.99.74:80, size=166.74 KiB[0m
+[0m2021-08-29 00:42:08 V/Net 1406937296: [Highway] Uploading group image: succeed at 504 KiB/s[0m
+[0m2021-08-29 00:42:08 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:42:09 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:42:09 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:42:09 V/Net 1406937296: Recv: RequireUpload(fileId=3082003110, uKey=[48, -65, -13, -57, 54, -38, -126, -65, -58, -120, -36, 87, -50, 83, 3, -95, 59, 113, 5, 2, -50, 78, -65, 127, -21, 78, 108, -122, 51, -128, 6, 11, 105, -5, -89, 106, -48, -90, -122, 50, -34, 113, -76, -14, -77, 76, 94, -57, -47, 28, -99, -63, 126, 14, -88, 103, -67, -11, -75, -100, 97, -94, 104, -89, 42, -95, -9, 63, -120, 16, 55, -65, 89, -59, 122, 117, 45, 86, 89, -24, -95, -27, 63, -14, 104, 85, 109, 16, 85, 39, 13, 77, -78, 95, 121, -26, 53, -32, 118, 18, 85, -62, 113, 97, -20, 44, -1, 90, -4, -40, -14, 124, -62, 32, -103, 1, 68, -30, -18, 6, 93, -39, -73, 90, -72, -127, -104, -65])[0m
+[0m2021-08-29 00:42:09 V/Net 1406937296: [Highway] Uploading group image to 183.47.99.74:80, size=174.47 KiB[0m
+[0m2021-08-29 00:42:10 V/Net 1406937296: [Highway] Uploading group image: succeed at 506 KiB/s[0m
+[0m2021-08-29 00:42:10 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:42:10 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:42:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:42:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:43:21 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:43:21 V/Net 1406937296: Recv: RequireUpload(fileId=2650763822, uKey=[-46, 20, -63, -36, 117, 69, -82, -10, 125, -91, -45, 26, 120, 45, 97, 71, 30, 59, -124, 127, -108, 113, 104, -34, -15, -66, -83, -76, 87, 104, 47, 68, -24, 94, -127, 116, 104, 41, 122, 3, 26, -36, 86, 105, 100, -125, 85, 16, -17, 2, -125, -127, 124, 42, 120, -112, -114, -103, -111, -102, 54, -58, 26, -61, 115, -111, 120, 93, 13, -23, -25, -27, -18, 37, -58, 40, 83, 98, -2, -87, 113, -57, -70, -1, 86, -61, 76, 90, 56, 1, 104, 106, 21, -19, -123, 9, 112, 5, -92, 49, 102, 52, 44, -54, -63, -51, 51, -49, 50, -45, -121, 58, 114, -65, 52, 11, 107, -99, 31, -112, -9, -71, 103, 124, -54, -119, 3, 20])[0m
+[0m2021-08-29 00:43:21 V/Net 1406937296: [Highway] Uploading group image to 183.47.99.74:80, size=148.85 KiB[0m
+[0m2021-08-29 00:43:21 V/Net 1406937296: [Highway] Uploading group image: succeed at 433 KiB/s[0m
+[0m2021-08-29 00:43:21 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:43:22 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:43:22 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:43:22 V/Net 1406937296: Recv: RequireUpload(fileId=2357489515, uKey=[-37, 72, 52, 113, -33, 71, 42, 35, -71, -8, -113, -8, -126, -89, 99, -53, 36, -86, -104, -42, -46, 17, -112, -62, 88, 7, -64, -32, -33, 61, 21, 117, 125, 33, -114, -82, 81, -105, 3, -19, -86, 48, 75, 32, -30, 19, 110, -68, 30, 32, 69, -88, 35, 79, -41, 71, 119, -96, 93, -119, 4, -87, 109, 24, 41, -47, 124, -25, 42, 93, -121, 63, 14, -8, -2, 47, -10, 55, -91, 84, -41, 18, 44, 75, -119, -125, 84, -3, 8, 109, -57, 35, -47, -11, -64, -36, 112, -97, 36, 90, 78, 60, -11, 107, 124, -93, -5, 115, -78, 34, 19, -11, 67, 99, 25, 85, -55, -44, -114, 113, 36, -13, -75, 50, -48, 55, -110, -50])[0m
+[0m2021-08-29 00:43:22 V/Net 1406937296: [Highway] Uploading group image to 183.47.99.74:80, size=165.96 KiB[0m
+[0m2021-08-29 00:43:23 V/Net 1406937296: [Highway] Uploading group image: succeed at 515 KiB/s[0m
+[0m2021-08-29 00:43:23 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:43:23 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:43:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:43:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:43:47 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:43:48 V/Net 1406937296: Recv: FileExists(fileId=2346873816, fileInfo=ImgInfo(fileMd5=[-117, 78, 29, -75, -26, -53, 57, -89, -72, 20, -91, 17, 70, -37, 0, 36], fileType=2001, fileSize=165021, fileWidth=0, fileHeight=0))[0m
+[0m2021-08-29 00:43:48 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:43:48 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:43:48 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:43:49 V/Net 1406937296: Recv: FileExists(fileId=3193175544, fileInfo=ImgInfo(fileMd5=[-77, -52, -6, 33, -43, -73, -87, -62, 3, 47, -25, 27, 46, -106, 121, 49], fileType=2001, fileSize=173161, fileWidth=0, fileHeight=0))[0m
+[0m2021-08-29 00:43:49 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:43:49 V/Net 1406937296: Recv: FileExists(fileId=2369821849, fileInfo=ImgInfo(fileMd5=[-8, -43, 46, -114, -38, 111, 49, -77, -79, -68, 35, -72, -45, -38, 127, 100], fileType=2001, fileSize=177868, fileWidth=0, fileHeight=0))[0m
+[0m2021-08-29 00:43:49 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:43:49 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:43:49 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:43:50 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:43:50 V/Net 1406937296: Send: ImgStore.GroupPicUp[0m
+[0m2021-08-29 00:43:50 V/Net 1406937296: Recv: FileExists(fileId=2472018303, fileInfo=ImgInfo(fileMd5=[-78, -126, 4, 26, 15, -63, 98, -14, -82, 19, -26, 7, 111, 88, 17, 19], fileType=2001, fileSize=177772, fileWidth=0, fileHeight=0))[0m
+[0m2021-08-29 00:43:50 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:43:51 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:43:51 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:43:51 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:44:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:44:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:45:44 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:45:44 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:45:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:45:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:46:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:46:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:47:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:47:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:48:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:48:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:49:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:49:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:50:14 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:50:14 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:50:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:50:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:51:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:51:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:52:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:52:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:53:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:53:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:54:44 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:54:44 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:54:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:54:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:55:03 V/Net 1406937296: Send: MessageSvc.PbSendMsg[0m
+[0m2021-08-29 00:55:04 V/Net 1406937296: Recv: MessageSvcPbSendMsg.Response.SUCCESS[0m
+[0m2021-08-29 00:55:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:55:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:56:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:56:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:57:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:57:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:58:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:58:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 00:59:14 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 00:59:15 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 00:59:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 00:59:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 01:00:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 01:00:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 01:01:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 01:01:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 01:02:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 01:02:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 01:03:45 V/Net 1406937296: Send: StatSvc.SimpleGet[0m
+[0m2021-08-29 01:03:45 V/Net 1406937296: Recv: Response(SimpleGet.Response)[0m
+[0m2021-08-29 01:03:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 01:03:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
+[0m2021-08-29 01:04:47 V/Net 1406937296: Send: Heartbeat.Alive[0m
+[0m2021-08-29 01:04:47 V/Net 1406937296: Recv: Heartbeat.Alive.Response[0m
